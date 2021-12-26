@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋
+<h1> Hi there 👋 </h1>
 I'm an Web Developer and Student in France 
 
 💬 Ask me about: 
