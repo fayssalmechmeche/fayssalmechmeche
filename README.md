@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [WORKADVENTURE](https://github.com/fayssalmechmeche/workadventure)
 
-- 🌱 I’m currently learning **Symfony** and  **NEXTJS** 
+- 🌱 I’m currently learning **Symfony** and  **VUE JS** 
 
 - 👯 I'm currently working as [FullStack Developer](https://www.linkedin.com/in/fayssal-mechmeche-developpeur-web/)
 
