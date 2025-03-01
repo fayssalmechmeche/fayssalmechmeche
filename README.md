@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [WORKADVENTURE](https://github.com/fayssalmechmeche/workadventure)
+- 🔭 I’m currently working on ?
 
-- 🌱 I’m currently learning **Symfony** and  **VUE JS** 
+- 🌱 I’m currently learning **Symfony** and  **Next JS** 
 
 - 👯 I'm currently working as [FullStack Developer](https://www.linkedin.com/in/fayssal-mechmeche-developpeur-web/)
 
